@@ -1,25 +1,27 @@
-# Virtualization Learning
+# Infrastructure Learning
 
-This repository documents my practical learning journey in **virtualization**.
+This repository documents my practical learning journey in **IT infrastructure**
 
-I am learning virtualization by studying the concepts, creating virtual machines, working with virtual networking, and troubleshooting problems that I encounter during my labs.
+I am learning through a combination of theory, hands-on labs, troubleshooting, and documenting what I learn in my own words.
 
 ## What I'm Learning
 
-* Virtual Machines
-* Hypervisors
-* VirtualBox
-* VM Networking
-* Virtual Storage
-* VM Management
-* Troubleshooting
+* Linux
+* Networking
+* Virtualization
+* Cloud
+* System Administration
+* DevOps
+* Infrastructure Security
 
 ## Practical Approach
 
-I document problems I actually encounter, the steps I take to investigate them, how I solve them, and what I learn from the process.
+I learn a concept, apply it in a practical lab, troubleshoot problems when they occur, and document the process and what I learned.
 
-This repository is part of my preparation for an **IT infrastructure internship**, with a focus on system administration, networking, and cloud technologies.
+## Current Focus
 
-## Progress
+Currently focusing on **Virtualization** and building practical labs.
 
-🚧 Currently learning and building practical labs.
+## Goal
+
+This repository is part of my preparation for an **IT infrastructure internship**, with a focus on system administration, networking, cloud, and DevOps.
